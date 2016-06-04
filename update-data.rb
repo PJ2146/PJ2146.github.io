@@ -10,7 +10,7 @@ OpenURI::Buffer.send :remove_const, 'StringMax' if OpenURI::Buffer.const_defined
 OpenURI::Buffer.const_set 'StringMax', 40960
 
 # Update these constants to your Google Spreadsheet.
-SHEET_ID = '1Z-YuOgtAXuP4p8UAXWon_Zgdjab03VwWMgVu2dIpBJY'
+SHEET_ID = '1rC1xjaebpoYf3eU0MbflFWibeMfanCR-FK-335mkpFk'
 GIDS = {
 	'results' => '0',
 	'vtd' => '1722258999',
