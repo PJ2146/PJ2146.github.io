@@ -10,7 +10,11 @@ OpenURI::Buffer.send :remove_const, 'StringMax' if OpenURI::Buffer.const_defined
 OpenURI::Buffer.const_set 'StringMax', 40960
 
 # Update these constants to your Google Spreadsheet.
+<<<<<<< HEAD
 SHEET_ID = '1xZXetat3Up0qHRJfRs8jQIlTJgRT9zzuAEAlyZ-p4RU'
+=======
+SHEET_ID = '1rC1xjaebpoYf3eU0MbflFWibeMfanCR-FK-335mkpFk'
+>>>>>>> origin/master
 GIDS = {
 	'results' => '0',
 	'vtd' => '1722258999',
@@ -53,4 +57,8 @@ if changed_files.length > 0 then
 	`git commit -m #{message}`
 	`git push`
 	`git push -f origin master:gh-pages`
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> origin/master
