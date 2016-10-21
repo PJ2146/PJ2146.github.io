@@ -11,7 +11,6 @@ OpenURI::Buffer.const_set 'StringMax', 40960
 
 # Update these constants to your Google Spreadsheet.
 SHEET_ID = '1rC1xjaebpoYf3eU0MbflFWibeMfanCR-FK-335mkpFk'
-origin/master
 GIDS = {
 	'results' => '0',
 	'vtd' => '1722258999',
@@ -55,4 +54,3 @@ if changed_files.length > 0 then
 	`git push`
 	`git push -f origin master:gh-pages`
 end
-origin/master
