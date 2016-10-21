@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 id,name,initiative,winner
-state senate,State Senate,,
-=======
-id,name,initiative,winner
-mayor,Mayor,,
-ag,Attorney General,,
-initiative_71,Initative 71,TRUE,
->>>>>>> parent of e9dc8c0... Auto-update
+state senate,State Senate,,nasheed
+mayor13,2013 Mayor,,slay
