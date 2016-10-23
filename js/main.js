@@ -80,6 +80,21 @@
                 column: 'DemPrimary13_Slay',
                 description: "where Francis Slay's vote share in the 2013 primary was"
             },
+            reed: {
+                name: 'Reed 2013 Vote',
+                column: 'DemPrimary13_Reed',
+                description: "where Lewis Reed's vote share in the 2013 primary was"
+            },
+            clay: {
+                name: 'Clay 2012 Vote',
+                column: 'DemPrimary12_Clay',
+                description: "where Lacy Clay's vote share in the 2012 primary was"
+            },
+            carnahan: {
+                name: 'Carnahan 2012 Vote',
+                column: 'DemPrimary12_Carnahan',
+                description: "where Russ Carnahan's vote share in the 2012 primary was"
+            },
             gray: {
                 name: 'Gray Primary Vote',
                 column: 'DemPrimary14_Gray',
