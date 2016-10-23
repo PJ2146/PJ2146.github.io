@@ -76,9 +76,9 @@
                 divider: 7.5
             },
             bowser: {
-                name: 'Bowser Primary Vote',
-                column: 'DemPrimary14_Bowser',
-                description: "where Muriel Bowser's vote share in the Democratic primary was"
+                name: 'Slay 2013 Vote',
+                column: 'DemPrimary13_Slay',
+                description: "where Francis Slay's vote share in the 2013 primary was"
             },
             gray: {
                 name: 'Gray Primary Vote',
