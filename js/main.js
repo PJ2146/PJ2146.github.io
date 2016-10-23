@@ -34,62 +34,11 @@
         },
 
         AVAILABLE_FILTERS = {
-            black: {
-                name: 'Black Areas', // Labels the filter.
-                column: 'PctBlackNonHispBridge_2010', // Must match a column in the vtd spreadsheet.
-                description: "with a black population of" // Used for the descriptive text.
-            },
-            white: {
-                name: 'White Areas',
-                column: 'PctWhiteNonHispBridge_2010',
-                description: "with a white population of"
-            },
-            hispanic: {
-                name: 'Hispanic Areas',
-                column: 'PctHisp_2010',
-                description: "with an Hispanic population of",
-                divider: 25 // Defaults to 50
-            },
-            homeowners: {
-                name: 'Homeowners',
-                column: 'PctOwnerOccupiedHsgUnits_2007_11',
-                description: "where the percentage of homes occupied by the owner is"
-            },
-            income: {
-                name: 'Avg Income',
-                column: 'AvgFamilyIncAdj_2007_11',
-                description: "where the average family income is",
-                units: 'dollars',  // Defaults to 'percent'
-                min: 25000,  // Defaults to 0
-                max: 200000, // Defaults to 100
-                step: 2500,  // Defaults to 1
-                divider: 60000,
-                direction: 'lt' // Defaults to 'gt' for 'greater than'
-            },
-            unemployment: {
-                name: 'Unemployment',
-                column: 'PctUnemployed_2007_11',
-                description: "where the unemployment rate is",
-                min: 0,
-                max: 30,
-                step: 0.5,
-                divider: 7.5
-            },
             slay: {
                 name: 'Slay 2013 Vote',
                 column: 'DemPrimary13_Slay',
                 description: "where Francis Slay's vote share in the 2013 primary was"
             },
-            gray: {
-                name: 'Gray Primary Vote',
-                column: 'DemPrimary14_Gray',
-                description: "where Vincent Gray's vote share in the Democratic primary was"
-            },
-            fenty: {
-                name: 'Fenty 2010 Primary Vote',
-                column: 'DemPrimary10_Fenty',
-                description: "where Adrian Fenty's vote share in the 2010 Democratic primary was"
-            }
         };
 
     function interpolateHex(hex1, hex2, distance) {
