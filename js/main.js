@@ -75,7 +75,7 @@
                 step: 0.5,
                 divider: 7.5
             },
-            bowser: {
+            slay: {
                 name: 'Slay 2013 Vote',
                 column: 'DemPrimary13_Slay',
                 description: "where Francis Slay's vote share in the 2013 primary was"
