@@ -1,4 +1,5 @@
 id,first_name,last_name,party,contest,other,color,photo
+<<<<<<< HEAD
 nasheed12,Senator Jamilah,Nasheed,Democratic,12statesen,,#278D28,http://themissouritimes.com/wp-content/uploads/2014/05/4fc8e131e2aaa.preview-620.jpg
 wright-jones,Robin,Wright-Jones,Democratic,12statesen,,#3e59b4,http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/6d/46df14f0-54cb-11e0-9f20-00127992bc8b/4e24ced997f60.preview-300.jpg
 mott-oxford,Jeannette,Mott-Oxford,Democratic,12statesen,,#E35D00,http://lgbtdailyspotlight.com/wp-content/uploads/2016/06/Jeanette-Mott-Oxford-150x150.jpg
@@ -29,3 +30,11 @@ HaasMayor17,Bill,Haas,Democratic,mayor17,,#ECE4B7,http://mediad.publicbroadcasti
 MatthewsMayor17,Jimmie,Matthews,Democratic,mayor17,,#2A2D34,https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/b3/8b3b5151-ade9-5398-91c1-1bf134bed030/58a9fee6dace6.image.jpg?crop=1185%2C827%2C2%2C80
 YesOnP,,,,prop17,,#278D28,https://pbs.twimg.com/media/DN9OjcbVAAADL-O.jpg
 NoOnP,,,,prop17,,#E35D00,https://7thwardstlouis.files.wordpress.com/2017/11/dgonpq3u0aigeky.jpg?w=240
+=======
+nasheed,Senator Jamilah,Nasheed,Democratic,state senate,,#278D28,https://pbs.twimg.com/profile_images/662352641289138176/CKwB2UDK.jpg
+wright-jones,Robin,Wright-Jones,Democratic,state senate,,#3e59b4,http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/6d/46df14f0-54cb-11e0-9f20-00127992bc8b/4e24ced997f60.preview-300.jpg
+mott-oxford,Jeannette,Mott-Oxford,Democratic,state senate,,#E35D00,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/1be/1cd/39e14f2.jpg
+slay13,Francis,Slay,Democratic,mayor13,,#278D28,
+mathews,Jimmie,Matthews,Democratic,mayor13,,#3e59b4,
+reed,Lewis,Reed,Democratic,mayor13,,#E35D00,
+>>>>>>> PJ2146-STL-Data

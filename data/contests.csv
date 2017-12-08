@@ -1,4 +1,5 @@
 id,name,initiative,winner
+<<<<<<< HEAD
 12statesen,2012 State Sen,,nasheed12
 12treasurer,2012 City Treas,,jones
 congress12,2012 House,,clay
@@ -7,3 +8,7 @@ circuit attorney,2016 Circ Atty,,gardner
 statesen16,2016 State Sen,,nasheed16
 mayor17,2017 Mayor,,KrewsonMayor17
 prop17,2017 Prop P,,YesOnP
+=======
+state senate,State Senate,,nasheed
+mayor13,2013 Mayor,,slay
+>>>>>>> PJ2146-STL-Data
