@@ -90,6 +90,11 @@
                 column: 'DemPrimary12_Clay',
                 description: "where Lacy Clay's vote share in the 2012 primary was"
             },
+            turnout: {
+                name: 'Mayoral 2017 Turnout',
+                column: 'DemPrimary17_TO',
+                description: "where turnout vote share in the 2017 mayoral primary was"
+            },
             carnahan: {
                 name: 'Carnahan 2012 Vote',
                 column: 'DemPrimary12_Carnahan',
