@@ -84,6 +84,11 @@
                 name: 'Reed 2013 Vote',
                 column: 'DemPrimary13_Reed',
                 description: "where Lewis Reed's vote share in the 2013 primary was"
+            }, 
+            reed: {
+                name: 'Reed 2017 Vote',
+                column: 'DemPrimary17_Reed',
+                description: "where Lewis Reed's vote share in the 2017 primary was"
             },
             clay: {
                 name: 'Clay 2012 Vote',
@@ -94,6 +99,11 @@
                 name: 'Carnahan 2012 Vote',
                 column: 'DemPrimary12_Carnahan',
                 description: "where Russ Carnahan's vote share in the 2012 primary was"
+            },
+            yesonp: {
+                name: 'Prop P Vote',
+                column: 'PropP17_Yes',
+                description: "where Prop P's vote share in the 2017 election was"
             },
             gray: {
                 name: 'Gray Primary Vote',
