@@ -81,6 +81,11 @@
                 description: "where Francis Slay's vote share in the 2013 primary was"
             },
             reed: {
+                name: 'Reed 2013 Vote',
+                column: 'DemPrimary13_Reed',
+                description: "where Lewis Reed's vote share in the 2013 primary was"
+            }, 
+            reed: {
                 name: 'Reed 2017 Vote',
                 column: 'DemPrimary17_Reed',
                 description: "where Lewis Reed's vote share in the 2017 primary was"
