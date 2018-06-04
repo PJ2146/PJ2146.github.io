@@ -100,16 +100,6 @@
                 column: 'DemPrimary12_Carnahan',
                 description: "where Russ Carnahan's vote share in the 2012 primary was"
             },
-            gray: {
-                name: 'Gray Primary Vote',
-                column: 'DemPrimary14_Gray',
-                description: "where Vincent Gray's vote share in the Democratic primary was"
-            },
-            fenty: {
-                name: 'Fenty 2010 Primary Vote',
-                column: 'DemPrimary10_Fenty',
-                description: "where Adrian Fenty's vote share in the 2010 Democratic primary was"
-            }
         };
 
     function interpolateHex(hex1, hex2, distance) {
