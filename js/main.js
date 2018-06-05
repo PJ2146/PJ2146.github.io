@@ -94,6 +94,7 @@
                 name: 'Mayoral 2017 Turnout',
                 column: 'DemPrimary17_TO',
                 description: "where turnout vote share in the 2017 mayoral primary was"
+                divider: 28 // Defaults to 50
             },
             carnahan: {
                 name: 'Carnahan 2012 Vote',
