@@ -100,6 +100,11 @@
                 column: 'DemPrimary12_Carnahan',
                 description: "where Russ Carnahan's vote share in the 2012 primary was"
             },
+            nasheed: {
+                name: 'Nasheed 2012 Vote',
+                column: 'DemPrimary12_Nasheed',
+                description: "where Jamilah Nasheed's vote share in the 2012 primary was"
+            },
         };
 
     function interpolateHex(hex1, hex2, distance) {
