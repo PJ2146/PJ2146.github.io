@@ -105,6 +105,26 @@
                 column: 'DemPrimary12_Nasheed',
                 description: "where Jamilah Nasheed's vote share in the 2012 primary was"
             },
+            tier1: {
+                name: 'Tier 1',
+                column: 'Tier_1',
+                description: "where Tier 1 was"
+            },
+            tier2: {
+                name: 'Tier 2',
+                column: 'Tier_2',
+                description: "where Tier 2 was"
+            },
+            tier3: {
+                name: 'Tier 3',
+                column: 'Tier_3',
+                description: "where Tier 4 was"
+            },
+            tier4: {
+                name: 'Tier 4',
+                column: 'Tier_4',
+                description: "where Tier 4 was"
+            },
         };
 
     function interpolateHex(hex1, hex2, distance) {
